@@ -1,0 +1,43 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-compression-0.2.16-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-compression.dll",
+    "Library/include/aws/compression/compression.h",
+    "Library/include/aws/compression/exports.h",
+    "Library/include/aws/compression/huffman.h",
+    "Library/lib/aws-c-compression.lib",
+    "Library/lib/aws-c-compression/cmake/aws-c-compression-config.cmake",
+    "Library/lib/aws-c-compression/cmake/shared/aws-c-compression-targets-release.cmake",
+    "Library/lib/aws-c-compression/cmake/shared/aws-c-compression-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-compression-0.2.16-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-compression-0.2.16-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "a195ac6a3a4a2c8d6a148a9ec3ea0f4a",
+  "name": "aws-c-compression",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-compression-0.2.16-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-compression==0.2.16=h2bbff1b_0[md5=a195ac6a3a4a2c8d6a148a9ec3ea0f4a]",
+  "sha256": "e157983469e2eacb348e71d2ee05370277ea2a9bc7888b1ae3e4ee3ed8f744f0",
+  "size": 21608,
+  "subdir": "win-64",
+  "timestamp": 1706690937000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-compression-0.2.16-h2bbff1b_0.conda",
+  "version": "0.2.16"
+}
