@@ -1,0 +1,45 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\annotated-types-0.6.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/annotated_types/__init__.py",
+    "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-312.pyc",
+    "Lib/site-packages/annotated_types/py.typed",
+    "Lib/site-packages/annotated_types/test_cases.py",
+    ".nonadmin"
+  ],
+  "fn": "annotated-types-0.6.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\annotated-types-0.6.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "8d345a965a3da046a6956185e8c9d739",
+  "name": "annotated-types",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\annotated-types-0.6.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::annotated-types==0.6.0=py312haa95532_0[md5=8d345a965a3da046a6956185e8c9d739]",
+  "sha256": "50b539c944af458bb9944f35fc84557a3859b8a1dc196fb59d504a7f095dfcef",
+  "size": 26442,
+  "subdir": "win-64",
+  "timestamp": 1709543289000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/annotated-types-0.6.0-py312haa95532_0.conda",
+  "version": "0.6.0"
+}
