@@ -1,0 +1,48 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-auth >=0.6.19,<0.6.20.0a0",
+    "aws-c-cal >=0.5.20,<0.5.21.0a0",
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-http >=0.6.25,<0.6.26.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "aws-checksums >=0.1.13,<0.1.14.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-s3-0.1.51-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-s3.dll",
+    "Library/include/aws/s3/exports.h",
+    "Library/include/aws/s3/s3.h",
+    "Library/include/aws/s3/s3_client.h",
+    "Library/lib/aws-c-s3.lib",
+    "Library/lib/aws-c-s3/cmake/aws-c-s3-config.cmake",
+    "Library/lib/aws-c-s3/cmake/shared/aws-c-s3-targets-release.cmake",
+    "Library/lib/aws-c-s3/cmake/shared/aws-c-s3-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-s3-0.1.51-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-s3-0.1.51-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "a773faa903d1942bf27de6b88ecc7832",
+  "name": "aws-c-s3",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-s3-0.1.51-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-s3==0.1.51=h2bbff1b_0[md5=a773faa903d1942bf27de6b88ecc7832]",
+  "sha256": "fb1eca56f50febefcf646c6891358a7931b51c2f69c5f531b3372827d6e60e04",
+  "size": 69302,
+  "subdir": "win-64",
+  "timestamp": 1706747680000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-s3-0.1.51-h2bbff1b_0.conda",
+  "version": "0.1.51"
+}
