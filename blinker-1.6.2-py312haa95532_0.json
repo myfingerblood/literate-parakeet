@@ -1,0 +1,50 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blinker-1.6.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/blinker-1.6.2.dist-info/INSTALLER",
+    "Lib/site-packages/blinker-1.6.2.dist-info/LICENSE.rst",
+    "Lib/site-packages/blinker-1.6.2.dist-info/METADATA",
+    "Lib/site-packages/blinker-1.6.2.dist-info/RECORD",
+    "Lib/site-packages/blinker-1.6.2.dist-info/REQUESTED",
+    "Lib/site-packages/blinker-1.6.2.dist-info/WHEEL",
+    "Lib/site-packages/blinker-1.6.2.dist-info/direct_url.json",
+    "Lib/site-packages/blinker-1.6.2.dist-info/top_level.txt",
+    "Lib/site-packages/blinker/__init__.py",
+    "Lib/site-packages/blinker/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/blinker/__pycache__/_saferef.cpython-312.pyc",
+    "Lib/site-packages/blinker/__pycache__/_utilities.cpython-312.pyc",
+    "Lib/site-packages/blinker/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/blinker/_saferef.py",
+    "Lib/site-packages/blinker/_utilities.py",
+    "Lib/site-packages/blinker/base.py",
+    "Lib/site-packages/blinker/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "blinker-1.6.2-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blinker-1.6.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "deff038f15a88c9a7c1b0b5c3cceb406",
+  "name": "blinker",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blinker-1.6.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::blinker==1.6.2=py312haa95532_0[md5=deff038f15a88c9a7c1b0b5c3cceb406]",
+  "sha256": "6ba9e99b54c1732bb05dc5835de89efe40b2a6efe494c614f843b78a2a90c35b",
+  "size": 33343,
+  "subdir": "win-64",
+  "timestamp": 1699474713000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blinker-1.6.2-py312haa95532_0.conda",
+  "version": "1.6.2"
+}
