@@ -1,0 +1,46 @@
+{
+  "build": "py312hd77b12b_8",
+  "build_number": 8,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-python-1.0.9-py312hd77b12b_8",
+  "files": [
+    "Lib/site-packages/Brotli-1.0.9.dist-info/INSTALLER",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/LICENSE",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/METADATA",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/RECORD",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/REQUESTED",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/WHEEL",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/direct_url.json",
+    "Lib/site-packages/Brotli-1.0.9.dist-info/top_level.txt",
+    "Lib/site-packages/__pycache__/brotli.cpython-312.pyc",
+    "Lib/site-packages/_brotli.cp312-win_amd64.pyd",
+    "Lib/site-packages/brotli.py",
+    ".nonadmin"
+  ],
+  "fn": "brotli-python-1.0.9-py312hd77b12b_8.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-python-1.0.9-py312hd77b12b_8",
+    "type": 1
+  },
+  "md5": "59ff3db1abed10f8b7705c41f5199573",
+  "name": "brotli-python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\brotli-python-1.0.9-py312hd77b12b_8.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::brotli-python==1.0.9=py312hd77b12b_8[md5=59ff3db1abed10f8b7705c41f5199573]",
+  "sha256": "fd43935d9710a5b2be962a31999d42029a5802c60b6afba6c8777dcdeae6ee21",
+  "size": 353976,
+  "subdir": "win-64",
+  "timestamp": 1714483879000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/brotli-python-1.0.9-py312hd77b12b_8.conda",
+  "version": "1.0.9"
+}
